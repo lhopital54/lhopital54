@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-GBSHS 20th
-Yohan Choi
+GBSHS 20th Yohan Choi
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=l_hopital)](https://solved.ac/l_hopital)
+[![Solved.ac Profile]([http://mazassumnida.wtf/api/v2/generate_badge?boj=l_hopital)](https://solved.ac/l_hopital)
 
 <!--
 **lhopital54/lhopital54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
